@@ -1,0 +1,22 @@
+Raccoon name: <George>
+Averagev location: <591189.034454322>, <4504604.085012094>
+Distance traveled: <593.9382753487247>
+Average energy level: <563.6214285714285>
+Raccoon end state: <George number 6 died from starvation>
+
+Day	Time	Y	Asleep	Behavior Mode	Energy Level	
+6/19/2008	6:00 AM	4504664.29938361	False	SafeSearchModifier	1000	
+6/19/2008	7:00 AM	4504620.85001397	False	RiskySearchModifier	887.8	
+6/19/2008	8:00 AM	4504583.53621216	False	RiskyForageModifier	777.8	
+6/19/2008	8:00 AM	4504546.70960308	False	RiskyForageModifier	704.1	
+6/19/2008	9:00 AM	4504531.77688002	False	RiskyForageModifier	687.6	
+6/19/2008	9:00 AM	4504547.28129659	False	RiskyForageModifier	770.6	
+6/19/2008	10:00 AM	4504582.5013916	False	RiskyForageModifier	698	
+6/19/2008	11:00 AM	4504619.52929159	False	RiskyForageModifier	588	
+6/19/2008	11:00 AM	4504641.73534564	False	RiskyForageModifier	486.8	
+6/19/2008	12:00 PM	4504639.79432702	False	RiskyForageModifier	478	
+6/19/2008	1:00 PM	4504639.25087614	False	RiskyForageModifier	368	
+6/19/2008	2:00 PM	4504636.35497609	False	RiskyForageModifier	258	
+6/19/2008	3:00 PM	4504631.76702955	False	RiskyForageModifier	148	
+6/19/2008	4:00 PM	4504571.80354225	False	RiskyForageModifier	37.9999999999999	
+
